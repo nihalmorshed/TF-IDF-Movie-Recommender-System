@@ -21,7 +21,7 @@ The dataset used in this project is the TMDB 5000 Movie Dataset. It contains inf
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tfidf-movie-recommender.git
+    git clone https://github.com/nihalmorshed/tfidf-movie-recommender.git
     ```
 2. Navigate to the project directory:
     ```bash
