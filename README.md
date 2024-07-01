@@ -1,6 +1,5 @@
 # TF-IDF Movie Recommender System
-
-Welcome to the TF-IDF Movie Recommender System project! This project is an implementation of a movie recommendation system that utilizes TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to recommend movies based on genres and keywords.
+This project is an implementation of a movie recommendation system that utilizes TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to recommend movies based on genres and keywords.
 
 ## Dataset
 
